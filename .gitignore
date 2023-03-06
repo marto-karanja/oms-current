@@ -19,3 +19,4 @@ config.json
 */keys
 *.db
 keys.py
+settings.py
